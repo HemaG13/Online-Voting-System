@@ -1,6 +1,6 @@
 # Voting
 
-#Objective
+# Objective
 Provide java-based online voting system to enhance current
 voting process.
 
@@ -9,7 +9,8 @@ candidates.
 
 Generate automated voting results in real time.
 
-#Implementation Details
+# Implementation Details
+
 1.The advanced E-voting technique makes use of main two phases-
 the sign-up and login phase.
 
