@@ -1,4 +1,4 @@
-# Voting
+# Online Voting System
 
 # Objective
 Provide java-based online voting system to enhance current
