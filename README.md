@@ -9,6 +9,8 @@ candidates.
 
 Generate automated voting results in real time.
 
+https://forthebadge.com/images/badges/made-with-java.svg
+
 # Implementation Details
 
 1.The advanced E-voting technique makes use of main two phases-
