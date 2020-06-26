@@ -13,6 +13,7 @@ Generate automated voting results in real time.
 
 1.The advanced E-voting technique makes use of main two phases-
 the sign-up and login phase.
+![Login Page](https://github.com/HemaG13/Voting/blob/master/Output/login.png)
 
 2.The votes are properly encrypted so that any third person cannot
 able to find voting information of any others.
