@@ -9,7 +9,7 @@ candidates.
 
 Generate automated voting results in real time.
 
-https://forthebadge.com/images/badges/made-with-java.svg
+![Language](https://forthebadge.com/images/badges/made-with-java.svg)
 
 # Implementation Details
 
