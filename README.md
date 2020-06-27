@@ -35,3 +35,8 @@ the sign-up and login phase.The votes are properly encrypted so that any third p
 5.This application will enable the students to cast their votes online
 and track the results in real time.
 ![Result Page](https://github.com/HemaG13/Voting/blob/master/Output/result_page.png)
+
+# Future Scope
+1.Security features in upcoming system.
+2.Data storage using cloud computing.
+3.Biometric validation.
