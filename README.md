@@ -38,5 +38,7 @@ and track the results in real time.
 
 # Future Scope
 1.Security features in upcoming system.
+
 2.Data storage using cloud computing.
+
 3.Biometric validation.
