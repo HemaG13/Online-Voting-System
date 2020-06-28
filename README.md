@@ -1,6 +1,6 @@
 # Online Voting System
 
-# Objective
+## Objective
 Provide java-based online voting system to enhance current
 voting process.
 
@@ -11,7 +11,7 @@ Generate automated voting results in real time.
 
 ![Language](https://forthebadge.com/images/badges/made-with-java.svg)
 
-# Implementation Details
+## Implementation Details
 
 1.The advanced E-voting technique makes use of main two phases-
 the sign-up and login phase.The votes are properly encrypted so that any third person cannot able to find voting information of any others.
@@ -36,7 +36,7 @@ the sign-up and login phase.The votes are properly encrypted so that any third p
 and track the results in real time.
 ![Result Page](https://github.com/HemaG13/Voting/blob/master/Output/result_page.png)
 
-# Future Scope
+## Future Scope
 1.Security features in upcoming system.
 
 2.Data storage using cloud computing.
