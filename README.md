@@ -47,6 +47,6 @@ and track the results in real time.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
-This Software is licenced under @MIT
+This Software is licenced under MIT
 
 
