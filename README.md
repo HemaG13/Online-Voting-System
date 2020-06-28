@@ -42,3 +42,11 @@ and track the results in real time.
 2.Data storage using cloud computing.
 
 3.Biometric validation.
+
+## License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
+
+This Software is licenced under @MIT
+
+
